@@ -17,3 +17,4 @@ Commands :
 7.code file name
 8.git clone "url"
 9.git status
+10.git bisect
