@@ -9,4 +9,5 @@ Status : Checking For Status
 Commands :
 
 1. Git init
+2.git commit -m "msg"
 
