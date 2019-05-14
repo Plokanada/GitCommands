@@ -16,5 +16,4 @@ Commands :
 6.git add .
 7.code file name
 8.git clone "url"
-9.
-
+9.git status
